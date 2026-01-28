@@ -49,3 +49,5 @@ inceleyeceğiz.
 
 - Bakalım sınav puanını hangi değişkenler ne kadar etkiliyor, hangi değişkenler
 sınav puanına anlamlı bir etki yapıyor.
+
+- Not: Projede kullanılan data verilmiştir. (student_habits_performance.csv)
