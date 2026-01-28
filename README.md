@@ -57,4 +57,4 @@ sınav puanına anlamlı bir etki yapıyor.
 - Basit Görselleştirme
 - Model Karşılaştırmaları
 
-- Not: Projede kullanılan data kaggle üzerinden alınmıştır. (student_habits_performance.csv)
+Not: Projede kullanılan data kaggle üzerinden alınmıştır. (student_habits_performance.csv)
