@@ -50,4 +50,11 @@ inceleyeceğiz.
 - Bakalım sınav puanını hangi değişkenler ne kadar etkiliyor, hangi değişkenler
 sınav puanına anlamlı bir etki yapıyor.
 
+## Projede Kullanılan Yöntemler
+- Doğrusal Regresyon
+- Train/Test Split
+- Varsayım Kontrolleri
+- Basit Görselleştirme
+- Model Karşılaştırmaları
+
 - Not: Projede kullanılan data kaggle üzerinden alınmıştır. (student_habits_performance.csv)
